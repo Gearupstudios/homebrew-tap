@@ -1,6 +1,6 @@
 cask "eyerelief" do
-  version "1.7"
-  sha256 "aca163d89c69ecfd56d3fa164d95587b06b81668e64a64df1289ce6c25bae43f"
+  version "1.8"
+  sha256 "ffc7a3b584cf012ff68e0989dac1a670d65356f1c09850a0b5dfc70f121a461f"
 
   url "https://github.com/Gearupstudios/EyeRelief/releases/download/v#{version}/EyeRelief.dmg"
   name "EyeRelief"
